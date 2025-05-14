@@ -21,6 +21,8 @@ java -jar target/csv-comparator-1.0-SNAPSHOT.jar <file1.csv> <file2.csv>
 java -jar target/cvs-comparison-1.0-SNAPSHOT.jar test-data/identical1.csv test-data/identical2.csv
 ```
 
+![Screenshot](screenshot.png)
+
 ## Sample Test Data
 Place CSV files under a `test-data/` folder:
 - `identical1.csv` and `identical2.csv`: identical content
